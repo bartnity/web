@@ -721,7 +721,7 @@ body {
 }
 
 .pricing-features li::before {
-    content: 'âœ“';
+    content: '\2713';
     position: absolute;
     left: 0;
     color: var(--color-accent-blue);
@@ -784,7 +784,7 @@ body {
 }
 
 .skills-list li::before {
-    content: 'â€¢';
+    content: '\2022';
     position: absolute;
     left: 0;
     color: var(--color-accent-blue);
